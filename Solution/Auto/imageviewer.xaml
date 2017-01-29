@@ -1,0 +1,10 @@
+﻿<Window x:Class="ImageVisualizerVSPackage.ImageViewer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        MaxHeight="140" MaxWidth="230" 
+        Opacity="0.85" WindowStyle="None" AllowsTransparency="True" 
+        Mouse.MouseMove="ImagePreview_OnMouseMove">
+    <Grid>
+        <Image Name="VisualizedImage"/>
+    </Grid>
+</Window>

@@ -1,0 +1,4 @@
+C:\Users\mbrichko\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\mbrichko\Auto\1.0\\Auto.dll
+C:\Users\mbrichko\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\mbrichko\Auto\1.0\\Auto.pkgdef
+C:\Users\mbrichko\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\mbrichko\Auto\1.0\\extension.vsixmanifest
+C:\Users\mbrichko\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\mbrichko\Auto\1.0\\Auto.pdb
